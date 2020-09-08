@@ -2,9 +2,46 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <option name="BUILD_PROCESS_HEAP_SIZE" value="2048" />
-    <bytecodeTargetLevel target="8" />
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lcn-busi" />
+        <module name="lcn-service" />
+        <module name="lcn-tm" />
+        <module name="seata-busi" />
+        <module name="seata-service" />
+        <module name="trans-busi" />
+        <module name="trans-xa" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="lcn-busi" target="1.7" />
+      <module name="lcn-service" target="1.7" />
+      <module name="lcn-tm" target="1.7" />
+      <module name="seata-busi" target="1.7" />
+      <module name="seata-service" target="1.7" />
+      <module name="trans" target="1.7" />
+      <module name="trans-busi" target="1.7" />
+      <module name="trans-lcn" target="1.7" />
+      <module name="trans-seata" target="1.7" />
+      <module name="trans-xa" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_STRING" value="-encoding utf-8" />
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="lcn-busi" options="" />
+      <module name="lcn-service" options="" />
+      <module name="lcn-tm" options="" />
+      <module name="seata-busi" options="" />
+      <module name="seata-service" options="" />
+      <module name="trans" options="" />
+      <module name="trans-busi" options="" />
+      <module name="trans-lcn" options="" />
+      <module name="trans-seata" options="" />
+      <module name="trans-xa" options="" />
+    </option>
   </component>
 </project>

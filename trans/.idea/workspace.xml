@@ -1,5 +1,151 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4893c9fb-6a27-4861-9990-aaf31632ac20" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/trans-busi/target/" />
+    <ignored path="$PROJECT_DIR$/trans-lcn/lcn-tm/target/" />
+    <ignored path="$PROJECT_DIR$/trans-seata/target/" />
+    <ignored path="$PROJECT_DIR$/trans-lcn/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/trans-seata/seata-service/target/" />
+    <ignored path="$PROJECT_DIR$/trans-xa/target/" />
+    <ignored path="$PROJECT_DIR$/trans-seata/seata-busi/target/" />
+    <ignored path="$PROJECT_DIR$/trans-lcn/lcn-busi/target/" />
+    <ignored path="$PROJECT_DIR$/trans-lcn/lcn-service/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1924125797">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="java" value="5" />
+          <entry key="properties" value="1" />
+          <entry key="xml" value="2" />
+          <entry key="yml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="5" />
+          <entry key="Properties" value="1" />
+          <entry key="XML" value="2" />
+          <entry key="YAML" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trans-busi/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-227" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trans-busi/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trans-busi/src/main/java/com/enjoy/config/DataSourceConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="582">
+              <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/5.1.2.RELEASE/spring-tx-5.1.2.RELEASE.jar!/org/springframework/transaction/support/TransactionTemplate.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="457">
+              <caret line="63" column="55" lean-forward="true" selection-start-line="63" selection-start-column="55" selection-end-line="63" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trans-lcn/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trans-lcn/lcn-tm/src/main/java/com/enjoy/TmManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trans-lcn/lcn-tm/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="26" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trans-lcn/lcn-service/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trans-lcn/lcn-busi/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trans-lcn/lcn-service/src/main/java/com/enjoy/LcnService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/trans-lcn/lcn-busi/src/main/java/com/enjoy/LcnBusi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trans-lcn/lcn-busi/src/main/java/com/enjoy/Swagger2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>platformTransactionManager</find>
+    </findStrings>
+  </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
       <map>
@@ -12,11 +158,17 @@
     <bower-package value="" />
     <bower.json value="" />
   </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -32,10 +184,10 @@
     <option name="vmOptions" value="-Dfile.encoding=GB2312" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1928" />
-    <option name="y" value="-321" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -99,6 +251,241 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="trans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trans" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trans" type="462c0819:PsiDirectoryNode" />
+              <item name="trans-busi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trans" type="462c0819:PsiDirectoryNode" />
+              <item name="trans-busi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trans" type="462c0819:PsiDirectoryNode" />
+              <item name="trans-busi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trans" type="462c0819:PsiDirectoryNode" />
+              <item name="trans-busi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trans" type="462c0819:PsiDirectoryNode" />
+              <item name="trans-busi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="enjoy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trans" type="462c0819:PsiDirectoryNode" />
+              <item name="trans-busi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="enjoy" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trans" type="462c0819:PsiDirectoryNode" />
+              <item name="trans-busi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="enjoy" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trans" type="462c0819:PsiDirectoryNode" />
+              <item name="trans-busi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trans" type="462c0819:PsiDirectoryNode" />
+              <item name="trans-lcn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trans" type="462c0819:PsiDirectoryNode" />
+              <item name="trans-lcn" type="462c0819:PsiDirectoryNode" />
+              <item name="lcn-busi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trans" type="462c0819:PsiDirectoryNode" />
+              <item name="trans-lcn" type="462c0819:PsiDirectoryNode" />
+              <item name="lcn-busi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trans" type="462c0819:PsiDirectoryNode" />
+              <item name="trans-lcn" type="462c0819:PsiDirectoryNode" />
+              <item name="lcn-busi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trans" type="462c0819:PsiDirectoryNode" />
+              <item name="trans-lcn" type="462c0819:PsiDirectoryNode" />
+              <item name="lcn-busi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trans" type="462c0819:PsiDirectoryNode" />
+              <item name="trans-lcn" type="462c0819:PsiDirectoryNode" />
+              <item name="lcn-busi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="enjoy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trans" type="462c0819:PsiDirectoryNode" />
+              <item name="trans-lcn" type="462c0819:PsiDirectoryNode" />
+              <item name="lcn-busi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trans" type="462c0819:PsiDirectoryNode" />
+              <item name="trans-lcn" type="462c0819:PsiDirectoryNode" />
+              <item name="lcn-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trans" type="462c0819:PsiDirectoryNode" />
+              <item name="trans-lcn" type="462c0819:PsiDirectoryNode" />
+              <item name="lcn-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trans" type="462c0819:PsiDirectoryNode" />
+              <item name="trans-lcn" type="462c0819:PsiDirectoryNode" />
+              <item name="lcn-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trans" type="462c0819:PsiDirectoryNode" />
+              <item name="trans-lcn" type="462c0819:PsiDirectoryNode" />
+              <item name="lcn-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trans" type="462c0819:PsiDirectoryNode" />
+              <item name="trans-lcn" type="462c0819:PsiDirectoryNode" />
+              <item name="lcn-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="enjoy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trans" type="462c0819:PsiDirectoryNode" />
+              <item name="trans-lcn" type="462c0819:PsiDirectoryNode" />
+              <item name="lcn-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trans" type="462c0819:PsiDirectoryNode" />
+              <item name="trans-lcn" type="462c0819:PsiDirectoryNode" />
+              <item name="lcn-tm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trans" type="462c0819:PsiDirectoryNode" />
+              <item name="trans-lcn" type="462c0819:PsiDirectoryNode" />
+              <item name="lcn-tm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trans" type="462c0819:PsiDirectoryNode" />
+              <item name="trans-lcn" type="462c0819:PsiDirectoryNode" />
+              <item name="lcn-tm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trans" type="462c0819:PsiDirectoryNode" />
+              <item name="trans-lcn" type="462c0819:PsiDirectoryNode" />
+              <item name="lcn-tm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trans" type="462c0819:PsiDirectoryNode" />
+              <item name="trans-lcn" type="462c0819:PsiDirectoryNode" />
+              <item name="lcn-tm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="enjoy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trans" type="462c0819:PsiDirectoryNode" />
+              <item name="trans-lcn" type="462c0819:PsiDirectoryNode" />
+              <item name="lcn-tm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -111,9 +498,131 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
   </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.BusiApp">
+    <configuration name="BusiApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="trans-busi" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.enjoy.BusiApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LcnBusi" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lcn-busi" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.enjoy.LcnBusi" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LcnService" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lcn-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.enjoy.LcnService" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeataBusi" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="seata-busi" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.enjoy.SeataBusi" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeataService" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="seata-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.enjoy.SeataService" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TmManager" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lcn-tm" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.enjoy.TmManager" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransXA" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="trans-xa" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.enjoy.TransXA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.BusiApp" />
+      <item itemvalue="Spring Boot.TmManager" />
+      <item itemvalue="Spring Boot.SeataService" />
+      <item itemvalue="Spring Boot.TransXA" />
+      <item itemvalue="Spring Boot.SeataBusi" />
+      <item itemvalue="Spring Boot.LcnBusi" />
+      <item itemvalue="Spring Boot.LcnService" />
+    </list>
+  </component>
   <component name="SshConsoleOptionsProvider">
     <option name="myEncoding" value="UTF-8" />
     <option name="myConnectionType" value="NONE" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4893c9fb-6a27-4861-9990-aaf31632ac20" name="Default Changelist" comment="" />
+      <created>1599033680850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599033680850</updated>
+      <workItem from="1599033683131" duration="2295000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2295000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Web" side_tool="true" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3547655" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -124,6 +633,74 @@
     <option name="PERFORM_EDIT_IN_BACKGROUND" value="false" />
     <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="false" />
     <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/trans-busi/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trans-busi/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-227" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trans-busi/src/main/java/com/enjoy/config/DataSourceConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="582">
+          <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/5.1.2.RELEASE/spring-tx-5.1.2.RELEASE.jar!/org/springframework/transaction/support/TransactionTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="63" column="55" lean-forward="true" selection-start-line="63" selection-start-column="55" selection-end-line="63" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trans-lcn/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trans-lcn/lcn-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trans-lcn/lcn-busi/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trans-lcn/lcn-tm/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trans-lcn/lcn-tm/src/main/java/com/enjoy/TmManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trans-lcn/lcn-service/src/main/java/com/enjoy/LcnService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trans-lcn/lcn-busi/src/main/java/com/enjoy/Swagger2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trans-lcn/lcn-busi/src/main/java/com/enjoy/LcnBusi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
